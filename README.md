@@ -49,5 +49,5 @@
   📫 How to reach me: <a href='mailto:edmarm7080@gmail.com'>edmarm7080@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/lexizz7/lexizz7"></a> nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/lexizz7/lexizz7"></a>
 </p>
