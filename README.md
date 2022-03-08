@@ -3,7 +3,8 @@
 </h1>
 
 <p align='center'>
-  A frontend web developer from Governador Valadares, Brazil.
+  A frontend web developer from Brazil.
+  Currently studying Computer Science
 </p>
 
 <p align='center'>
