@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A frontend web developer from Brazil.
+  A software and Full Stack developer from Brazil.
   Currently studying Computer Science
 </p>
 
