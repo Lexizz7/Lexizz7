@@ -1,31 +1,10 @@
-<h1 align='center'>
-  Hi there 👋 I'm Edmar
-</h1>
+# Hi there 👋
 
-<p align='center'>
-  A software and Full Stack developer from Brazil.
-  Currently studying Computer Science
-</p>
+I'm a software developer from Brazil. Currently studying Computer Science.
 
-<p align='center'>
-  
-  <a href="https://discordapp.com/users/276733826569338880/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/lexizz7">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
+## My stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexizz7&show_icons=true&count_private=true&theme=tokyonight&bg_color=00000000&hide_border=true "GitHub Stats")](#)
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Lexizz7&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:edmarm7080@gmail.com'>edmarm7080@gmail.com</a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/lexizz7/lexizz7"></a>
-</p>
+## How to reach me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "edmarm7080@gmail.com")](mailto:edmarm7080@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discordapp.com/users/276733826569338880/)
